@@ -9,7 +9,7 @@ My work at KudiBooks, PayingTone, and Ontime App Rwanda - ShuriBus Ltd required 
 Overall, my experience as a Software Developer has been challenging but rewarding. It has taught me a lot about software development, teamwork, and communication. I am excited to continue working in this field and look forward to taking on new challenges and learning opportunities in the future.
 
 <h3 align="left">Connect with me:</h3>
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niyobuhungiro-yves-6a0180174/)]
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niyobuhungiro-yves-6a0180174/)
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
