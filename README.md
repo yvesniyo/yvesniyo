@@ -1,4 +1,4 @@
-Hello, my name is Niyobuhungiro Yves and I have been working as a Software Developer for almost 5 years now. During this time, I have had the opportunity to work for several companies such as KudiBooks, PayingTone, Ontime App Rwanda - ShuriBus Ltd, and many more.
+Hello, my name is Niyobuhungiro Yves and I have been working as a Software Developer for almost 5 years now. During this time, I have had the opportunity to work for several companies such as BildauDigital ltd, KudiBooks, PayingTone, Ontime App Rwanda - ShuriBus Ltd, and many more.
 
 One of my key responsibilities at Ontime App Rwanda - ShuriBus Ltd was to develop backend APIs for a mobile application and web dashboard for administration on a fleeting management app. I used PHP Laravel framework to develop the backend and also developed two mobile apps for Android in Java. It was a challenging task, but I carefully analyzed the project to identify and rectify errors, implemented best practices and coding standards, and reported on weekly tasks in accurate and detailed reports.
 
